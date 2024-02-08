@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  color: white;
+  background-image: url(Chill\ of\ the\ Wild.gif);
+  width: 100%;
+  height: auto;
+  border-image-repeat: no-repeat;
+	background-size: cover;
+  background-attachment: fixed;
+}
+
+.card-storage{
+  width: 100%;
+  height: auto;
+}
+
+td.lightbrown{
+  background-color: lightgray;
+}
+td.darkbrown{
+  background-color: darkgray;
+}
+
+.footer{
+  left: 0;
+  bottom: 0;
+  max-width: 100%;
+  background-color: #212529;
+  color: white;
+  text-align: center; 
+}
+
+div.Title{
+  max-width: 100%;
+}
+
